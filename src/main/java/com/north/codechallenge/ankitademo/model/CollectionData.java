@@ -14,5 +14,6 @@ public class CollectionData {
 	private String title;
 	private String description;
 	private List<Collection> collections;
+	private List<Link> links;
 
 }
